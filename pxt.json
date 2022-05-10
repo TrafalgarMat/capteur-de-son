@@ -1,5 +1,5 @@
 {
-    "name": "Capteur de son",
+    "name": "Capteur de sonorité",
     "description": "",
     "dependencies": {
         "core": "*",
